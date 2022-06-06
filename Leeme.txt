@@ -1,0 +1,7 @@
+Buenos dia, tarde o Noche a quien revice mi proyecto, Este archivo es para hacer 
+constar que el curl en mi pc no estaba funcionando de buena manera por ende 
+utilice postman, Asi pues dejo capturas de imagenes que contiene la funcionalidad 
+de app con los distintos parametros que se le enviaron. Cumpliendo asi, con los 
+requerimientos establecido en el proyecto. 
+
+Sin mas que decir, Me despido. 
